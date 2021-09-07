@@ -1,4 +1,4 @@
-# Group Structure Estimation for Non-linear Panel Data 
+# Spectral Clustering for Non-linear Panel Data
 
 
 
