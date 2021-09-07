@@ -10,7 +10,7 @@ The file `MembershipEstimation.R` contains a function `membership.est` to estima
 ## Simulations
 We provide an example code `Model2_MembershipEstimation.R` for examining the performance of the proposed group structure estimation method in terms of perfect match (the proportion of times that the exact group assignment is found) and average match (average percentage of correct classification, see the aforementioned paper for more details). The data is generated from Model 2 in (Yu et al., 2021). 
 
-The example code `Model2_NumGrpsEstimation.R` is provided for examining the performance of the proposed heuristic ( eq (2) in Yu et al., 2021) for the number of groups estimation. The data is generated from Model 2 in (Yu et al., 2021).
+The example code `Model2_NumGrpsEstimation.R` is provided for examining the performance of the proposed heuristic (eq (2) in Yu et al., 2021) for the number of groups estimation. The data is generated from Model 2 in (Yu et al., 2021).
 
 
 ## Repository Authors
