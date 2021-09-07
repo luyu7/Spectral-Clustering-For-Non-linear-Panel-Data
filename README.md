@@ -22,4 +22,4 @@ The example code `Model2_NumGrpsEstimation.R` is provided for examining the perf
 
 
 ## Reference
-Yu, L., Gu, J, and Volgushev, S. (2021) Group structure estimation for non-linear panel data -- a general approach.
+Yu, L., Gu, J, and Volgushev, S. (2021) Group structure estimation for non-linear panel data - a general approach.
