@@ -14,5 +14,13 @@ We provide an example code `Model_MembershipEstimation.R` for examining the perf
 The example code `Model_NumGrpsEstimation.R` is provided for examining the performance of the proposed heuristic (eq (2) in [Yu et al., 2022](https://arxiv.org/pdf/2201.01793.pdf)) for the number of groups estimation. The data is generated from Model 4 in [Yu et al., 2022](https://arxiv.org/pdf/2201.01793.pdf).
 
 
+## Repository Authors
+Lu Yu - Department of Statistical Sciences, University of Toronto
+
+Jiaying Gu - Department of Economics, University of Toronto
+
+Stanislav Volgushev - Department of Statistical Sciences, University of Toronto
+
+
 ## Reference
 [Yu, L., Gu, J, and Volgushev, S. (2022) Group Structure Estimation for Non-linear Panel Data - A General Approach](https://arxiv.org/pdf/2201.01793.pdf)
